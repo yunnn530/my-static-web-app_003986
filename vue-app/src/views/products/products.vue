@@ -4,7 +4,7 @@ import ListHeader from '@/components/list-header.vue';
 import ProductList from './product-list.vue';
 
 export default {
-  name: 'Products',
+  name: '製品',
   data() {
     return {
       routePath: '/products',
