@@ -7,19 +7,19 @@ const data = {
     {
       id: 10,
       name: 'イチゴ',
-      description: 'イチゴ１ダース',
+      description: 'とちおとめ１ダース',
       quantity: '1',
     },
     {
       id: 20,
-      name: 'スライスパン',
-      description: 'スライスされた小麦のパン',
+      name: 'フランスパン',
+      description: 'フランスパン３個入りバッグ',
       quantity: 1,
     },
     {
       id: 30,
       name: 'リンゴ',
-      description: 'リンゴ 7 個入りバッグ',
+      description: '王林 7 個入りバッグ',
       quantity: 1,
     },
   ],
