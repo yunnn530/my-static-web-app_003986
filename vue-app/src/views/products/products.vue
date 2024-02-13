@@ -4,11 +4,11 @@ import ListHeader from '@/components/list-header.vue';
 import ProductList from './product-list.vue';
 
 export default {
-  name: '製品',
+  name: 'Products',
   data() {
     return {
       routePath: '/products',
-      title: 'Products',
+      title: '製品',
     };
   },
   components: {
