@@ -6,20 +6,20 @@ const data = {
   products: [
     {
       id: 10,
-      name: 'Strawberries',
-      description: '16oz package of fresh organic strawberries',
+      name: 'イチゴ',
+      description: 'イチゴ１ダース',
       quantity: '1',
     },
     {
       id: 20,
-      name: 'Sliced bread',
-      description: 'Loaf of fresh sliced wheat bread',
+      name: 'スライスパン',
+      description: 'スライスされた小麦のパン',
       quantity: 1,
     },
     {
       id: 30,
-      name: 'Apples',
-      description: 'Bag of 7 fresh McIntosh apples',
+      name: 'リンゴ',
+      description: 'リンゴ 7 個入りバッグ',
       quantity: 1,
     },
   ],
