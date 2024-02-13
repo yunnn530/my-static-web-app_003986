@@ -1,9 +1,9 @@
 <template>
   <nav class="column is-2 menu">
-    <p class="menu-label">Menu</p>
+    <p class="menu-label">メニュー</p>
     <ul class="menu-list">
-      <router-link to="/products">Products</router-link>
-      <router-link to="/about">About</router-link>
+      <router-link to="/products">製品</router-link>
+      <router-link to="/about">詳細</router-link>
     </ul>
   </nav>
 </template>
