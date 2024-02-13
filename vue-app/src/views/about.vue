@@ -1,7 +1,7 @@
 <template>
   <div class="content-container">
     <div class="content-title-group not-found">
-      <h2 class="title">欲しいものリスト</h2>
+      <h2 class="title">アプリの説明</h2>
       <p>
         This project was created to help represent a fundamental app written
         with Vue. The shopping theme is used throughout the app.
